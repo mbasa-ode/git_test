@@ -1,0 +1,19 @@
+Hello Odin!
+my first time using the git and GitHub
+
+git clone git@github.com:mbasa-ode/git_test.git
+git remote -v
+touch hello_world.txt
+git status
+git add hello_world.txt
+git status
+git commit -m "Add hello_world.txt"
+git status
+git log
+code . "add lines of code to your files"
+git status
+git add README.md
+git commit -m "Add new file"
+git status
+git add .
+git status
